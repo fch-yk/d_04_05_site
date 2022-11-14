@@ -3,9 +3,6 @@
 tmp/
 tmp*.*
 *.code-workspace
-books/
-images/
-pages/
 books_catalog.json
 
 # Byte-compiled / optimized / DLL files
