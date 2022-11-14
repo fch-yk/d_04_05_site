@@ -10,6 +10,7 @@ You can find the project that was used to create this website [here](https://git
 ## Running
 
 Open index.html to start.
+The GitHub Pages version of the website is [here](https://yefimkorshever.github.io/d_04_05_site/).
 
 ## Project goals
 
